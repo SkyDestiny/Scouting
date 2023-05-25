@@ -1,0 +1,33 @@
+body {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(26, 54, 141);
+    color: white;
+}
+
+.select-section{
+    padding: 1%;
+    margin-top: 3%;
+    margin-left: 9%;
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    color: rgb(49, 165, 41);
+    align-items: center;
+    flex-direction: column;
+}
+
+.form-select {
+    width: auto;
+}
